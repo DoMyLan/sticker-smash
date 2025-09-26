@@ -4,6 +4,8 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Home screen</Text>
+      <Text style={styles.text}>Lan nè....</Text>
+      <Text style={styles.text}>New commit 123.</Text>
     </View>
   );
 }
