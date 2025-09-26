@@ -5,6 +5,7 @@ export default function Index() {
     <View style={styles.container}>
       <Text style={styles.text}>Home screen</Text>
       <Text style={styles.text}>Lan nè....</Text>
+      <Text style={styles.text}>Trigger build EAS....</Text>
     </View>
   );
 }
